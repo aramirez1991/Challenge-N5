@@ -1,0 +1,13 @@
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\bin\Debug\netcoreapp3.1\Infraestructura.dll
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\bin\Debug\netcoreapp3.1\Infraestructura.pdb
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.AssemblyReference.cache
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
+C:\Proyectos\FullStack\WebApiPermiso\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
